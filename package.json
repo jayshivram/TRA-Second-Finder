@@ -1,0 +1,12 @@
+{
+  "name": "tra-second-finder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal tool to locate the missing seconds in a TRA receipt verification link.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
