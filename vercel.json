@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/tra-verify.js": {
-      "maxDuration": 15
-    }
-  }
-}
